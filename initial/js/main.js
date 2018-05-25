@@ -75,13 +75,15 @@ multiply(2, 10);
 //
 //const oneArg = arg1 => { console.log(arg1 + 5) }
 
-console.log(document)
+//console.log(document)
 
 //console.log(document.querySelector('[data-type="master"]'))
 //console.log(document.querySelector('li'))
 //console.log(document.querySelector('.badboy'))
 
 
-const li = document.querySelector('li')
-li.classList.add('red')
-li.classList.remove('luke')
+//const li = document.querySelector('li')
+//li.classList.add('red')
+//li.classList.remove('luke')
+
+
