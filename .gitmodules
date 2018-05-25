@@ -1,0 +1,4 @@
+[submodule "lesson"]
+	path = lesson
+	url = git@github.com:zellwk/jsf.git
+	branch = master
